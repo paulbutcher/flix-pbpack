@@ -1,0 +1,3 @@
+javac PbJava.java
+jar -cvf PbJava.jar PbJava.class
+mv PbJava.jar ../lib
